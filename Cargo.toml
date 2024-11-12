@@ -10,6 +10,7 @@ repository = "https://github.com/nlhepler/spoa-rs"
 [features]
 default = []
 simde = ["spoa-sys/simde"]
+dispatch = ["spoa-sys/dispatch"]
 
 [workspace]
 
